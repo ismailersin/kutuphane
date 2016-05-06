@@ -1,0 +1,6 @@
+C:\Users\ibrahim\Downloads\kutuphane-master (1)\kutuphane-master\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ibrahim\Downloads\kutuphane-master (1)\kutuphane-master\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ibrahim\Downloads\kutuphane-master (1)\kutuphane-master\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ibrahim\Downloads\kutuphane-master (1)\kutuphane-master\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\ibrahim\Downloads\kutuphane-master (1)\kutuphane-master\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\ibrahim\Downloads\kutuphane-master (1)\kutuphane-master\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
